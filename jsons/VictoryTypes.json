@@ -1,0 +1,57 @@
+[
+    
+    
+    {
+        "name": "Domination",
+"hiddenInVictoryScreen": false,
+
+        "victoryScreenHeader": "Destroy all enemies\nto win!",
+        "milestones": ["Destroy all players"],
+        "victoryString": "The world has been convulsed by war. Many great and powerful civilizations have fallen, but you have survived - and emerged victorious! The world will long remember your glorious triumph!",
+        "defeatString": "You have been defeated. Your civilization has been overwhelmed by its many foes. But your people do not despair, for they know that one day you shall return - and lead them forward to victory!"
+    },
+
+
+    {
+        "name": "Time",
+        "hiddenInVictoryScreen": true,
+        "milestones": ["Have highest score after max turns"],
+    },
+
+
+ {
+        "name": "Scientific",
+
+        "hiddenInVictoryScreen": true,
+"milestones": [
+            "Build [Apollo Program]", "Add all [spaceship parts] in capital"
+        ],
+
+    },
+
+
+ {
+        "name": "Cultural",
+        
+"hiddenInVictoryScreen": true,
+"milestones": ["Complete [5] Policy branches", "Build [Utopia Project]"],
+     
+        "victoryString": "",
+        "defeatString": ""
+
+    },
+
+ {
+        "name": "Diplomatic",
+       "hiddenInVictoryScreen": true,
+"milestones": ["Anyone should build [United Nations]", "Win diplomatic vote"],
+
+      
+        "victoryString": "",
+        "defeatString": ""
+
+    }
+
+
+
+]
